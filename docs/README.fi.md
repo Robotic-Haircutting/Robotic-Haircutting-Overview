@@ -2,7 +2,7 @@
 
 Kielet: [English](../README.md) | [中文](README.zh.md) | Suomi | [Deutsch](README.de.md) | [Français](README.fr.md)
 
-Tämä arkisto tarjoaa tietosanakirjamaisen yleiskatsauksen robottiseen hiustenleikkaukseen. Se kattaa alan taustan, historian, turvallisuusnäkökohdat, sovellukset, tekniset haasteet ja keskeiset viitteet. Aiheeseen liittyviin julkaisuihin viitataan tekstissä, ja ne on koottu tämän sivun loppuun. Arkisto sisältää myös projektin yleisesittelyn [Haircutting Robot Introduction Slides](../haircutting_robot_introduction.pdf) -esityskalvoissa, jotka käsittelevät motivaatiota, aiempaa tutkimusta, teknisiä vaatimuksia, turvallisuutta, mahdollistavia teknologioita ja tulevaisuuden näkymiä.
+Tämä arkisto tarjoaa tietosanakirjamaisen yleiskatsauksen robottiseen hiustenleikkaukseen. Se kattaa alan taustan, historian, turvallisuusnäkökohdat, sovellukset, tekniset haasteet ja keskeiset viitteet. Aiheeseen liittyviin julkaisuihin viitataan tekstissä, ja ne on koottu tämän sivun loppuun. Arkisto sisältää myös projektin yleisesittelyn [Haircutting Robot Introduction Slides](../haircutting_robot.pdf) -esityskalvoissa, jotka käsittelevät motivaatiota, aiempaa tutkimusta, teknisiä vaatimuksia, turvallisuutta, mahdollistavia teknologioita ja tulevaisuuden näkymiä.
 
 ## Yleiskuva
 

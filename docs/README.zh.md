@@ -2,7 +2,7 @@
 
 语言: [English](../README.md) | 中文 | [Suomi](README.fi.md) | [Deutsch](README.de.md) | [Français](README.fr.md)
 
-本仓库提供一个关于机器人理发的百科式概览，涵盖其背景、历史、安全考量、应用、技术挑战和关键参考文献。相关论文在正文中按需引用，并汇总于本文末尾。仓库同时提供一份用于项目整体介绍的演讲幻灯片 [Haircutting Robot Introduction Slides](../haircutting_robot_introduction.pdf)，内容涵盖研究动机、既有工作、技术需求、安全问题、支撑技术与未来展望。
+本仓库提供一个关于机器人理发的百科式概览，涵盖其背景、历史、安全考量、应用、技术挑战和关键参考文献。相关论文在正文中按需引用，并汇总于本文末尾。仓库同时提供一份用于项目整体介绍的演讲幻灯片 [Haircutting Robot Introduction Slides](../haircutting_robot.pdf)，内容涵盖研究动机、既有工作、技术需求、安全问题、支撑技术与未来展望。
 
 ## 概述
 

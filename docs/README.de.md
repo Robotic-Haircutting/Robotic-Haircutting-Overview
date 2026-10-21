@@ -2,7 +2,7 @@
 
 Sprachen: [English](../README.md) | [中文](README.zh.md) | [Suomi](README.fi.md) | Deutsch | [Français](README.fr.md)
 
-Dieses Repository bietet einen enzyklopädischen Überblick über robotisches Haareschneiden. Es behandelt Hintergrund, Geschichte, Sicherheitsaspekte, Anwendungen, technische Herausforderungen und zentrale Referenzen. Relevante Veröffentlichungen werden im Text zitiert und am Ende dieses Dokuments gesammelt. Eine allgemeine Einführung in das Projekt ist außerdem in den [Haircutting Robot Introduction Slides](../haircutting_robot_introduction.pdf) verfügbar, die Motivation, bisherige Forschung, technische Anforderungen, Sicherheit, unterstützende Technologien und den Ausblick behandeln.
+Dieses Repository bietet einen enzyklopädischen Überblick über robotisches Haareschneiden. Es behandelt Hintergrund, Geschichte, Sicherheitsaspekte, Anwendungen, technische Herausforderungen und zentrale Referenzen. Relevante Veröffentlichungen werden im Text zitiert und am Ende dieses Dokuments gesammelt. Eine allgemeine Einführung in das Projekt ist außerdem in den [Haircutting Robot Introduction Slides](../haircutting_robot.pdf) verfügbar, die Motivation, bisherige Forschung, technische Anforderungen, Sicherheit, unterstützende Technologien und den Ausblick behandeln.
 
 ## Überblick
 

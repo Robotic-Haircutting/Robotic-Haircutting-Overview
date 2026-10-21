@@ -2,7 +2,7 @@
 
 Langues : [English](../README.md) | [中文](README.zh.md) | [Suomi](README.fi.md) | [Deutsch](README.de.md) | Français
 
-Ce dépôt propose une vue d'ensemble de type encyclopédique sur la coupe de cheveux robotique. Il couvre le contexte, l'histoire, les considérations de sécurité, les applications, les défis techniques et les principales références. Les publications pertinentes sont citées dans le texte et rassemblées à la fin de ce document. Une présentation générale du projet est également disponible dans [Haircutting Robot Introduction Slides](../haircutting_robot_introduction.pdf), qui couvre la motivation de la recherche, les travaux antérieurs, les exigences techniques, les questions de sécurité, les technologies habilitantes et les perspectives futures.
+Ce dépôt propose une vue d'ensemble de type encyclopédique sur la coupe de cheveux robotique. Il couvre le contexte, l'histoire, les considérations de sécurité, les applications, les défis techniques et les principales références. Les publications pertinentes sont citées dans le texte et rassemblées à la fin de ce document. Une présentation générale du projet est également disponible dans [Haircutting Robot Introduction Slides](../haircutting_robot.pdf), qui couvre la motivation de la recherche, les travaux antérieurs, les exigences techniques, les questions de sécurité, les technologies habilitantes et les perspectives futures.
 
 ## Vue d'ensemble
 

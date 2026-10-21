@@ -1,8 +1,8 @@
 # Robotic Haircutting
 
-Languages: English | [中文](/docs/README.zh.md) | [Suomi](/docs/README.fi.md) | [Deutsch](/docs/README.de.md) | [Français](/docs/README.fr.md)
+Languages: English | [中文](docs/README.zh.md) | [Suomi](docs/README.fi.md) | [Deutsch](docs/README.de.md) | [Français](docs/README.fr.md)
 
-This repository provides an encyclopedia-style overview of robotic haircutting, including its background, history, safety considerations, applications, technical challenges, and key references. Relevant publications are cited throughout and collected at the end of this document. A general introduction to the project is also available in [Haircutting Robot Introduction Slides](haircutting_robot_introduction.pdf), which covers the research motivation, prior work, technical requirements, safety issues, enabling technologies, and future outlook.
+This repository provides an encyclopedia-style overview of robotic haircutting, including its background, history, safety considerations, applications, technical challenges, and key references. Relevant publications are cited throughout and collected at the end of this document. A general introduction to the project is also available in [Haircutting Robot Introduction Slides](haircutting_robot.pdf), which covers the research motivation, prior work, technical requirements, safety issues, enabling technologies, and future outlook.
 
 ## Overview
 
