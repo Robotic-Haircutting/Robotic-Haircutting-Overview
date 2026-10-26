@@ -91,6 +91,10 @@ The team is also developing a simulation platform for planning and evaluating ro
 
 - [RoboHairSim](https://github.com/Robotic-Haircutting/RoboHairSim): a MATLAB-based simulation platform that integrates head and hair modeling, directional clipper cutting, toolpath planning, and robot execution, and supports automated haircutting, keyboard teleoperation, and session replay [\[11\]](#team-publication-11). See the [project overview](ongoing-work/robohairsim-simulation-platform.md) for details.
 
+The team is also developing a quadratic programming based teleoperation scheme for robotic haircutting:
+
+- [QP_Haircut_Teleop](https://github.com/Robotic-Haircutting/QP_Haircut_Teleop): a quadratic programming based teleoperation scheme that lets a follower arm track the operator's desired pose within its joint limits without joint-to-joint correspondence, applied to heterogeneous leader-follower teleoperation and smartphone-based teleoperation [\[12\]](#team-publication-12). See the [project overview](ongoing-work/qp-haircut-teleop.md) for details.
+
 ### Teleoperation Demonstrations
 
 | Normal operation [\[9\]](#team-publication-9) | Rebase operation [\[9\]](#team-publication-9) |
@@ -110,6 +114,16 @@ The team is also developing a simulation platform for planning and evaluating ro
 | Before haircutting [\[11\]](#team-publication-11) | After haircutting (5 mm guard) [\[11\]](#team-publication-11) |
 | --- | --- |
 | ![Simulated hair before haircutting](ongoing-work/media/simulation/before_haircutting.gif) | ![Simulated hair after a 5 mm haircut](ongoing-work/media/simulation/after_haircutting_5mm.gif) |
+
+### QP-Based Teleoperation Demonstrations
+
+| Heterogeneous leader-follower teleoperation (SO-101 to Piper) [\[12\]](#team-publication-12) |
+| --- |
+| ![SO-101 leader teleoperating the Piper follower](ongoing-work/media/qp-teleoperation/app1_leader_follower_teleop.gif) |
+
+| Smartphone-based teleoperation [\[12\]](#team-publication-12) |
+| --- |
+| ![Phone screen during smartphone-based teleoperation](ongoing-work/media/qp-teleoperation/app2_smartphone_teleop.gif) |
 
 Additional ongoing work from this team is organized in [ongoing-work/README.md](ongoing-work/README.md).
 
@@ -174,4 +188,4 @@ This project is led by [Professor Shuai Li](https://www.oulu.fi/en/researchers/s
 - <a id="team-publication-9"></a>[9] Z. Huang, A. Vilkki, J. Huang, B. Liao, C. Luo, L. Angrisani, and S. Li, "TeleHairing: A Teleoperation Baseline for Robotic Haircutting," *arXiv preprint*, arXiv:2610.07096, 2026. DOI: [10.48550/arXiv.2610.07096](https://doi.org/10.48550/arXiv.2610.07096). [PDF](publications/2026/TeleHairing.pdf).
 - <a id="team-publication-10"></a>[10] "Teleoperated Haircutting with Delay Compensation and Passivity-Based Control for Unilateral Internet Teleoperation under Real Communication Uncertainties," manuscript submitted for publication, 2026. [PDF](publications/2026/Teleoperated%20Haircutting%20with%20Delay%20Compensation%20and%20Passivity-Based%20Control%20for%20Unilateral%20Intern.pdf).
 - <a id="team-publication-11"></a>[11] "RoboHairSim: A Human-Machine Platform for Planning and Evaluating Robotic Haircutting," manuscript submitted for publication, 2026. [PDF](publications/2026/RoboHairSim.pdf).
-- <a id="team-publication-12"></a>[12] "A Quadratic Programming-Based Teleoperation Scheme for Haircutting Robots," manuscript submitted for publication, 2026. [PDF](publications/2026/QP_haircutting.pdf).
+- <a id="team-publication-12"></a>[12] "A Quadratic Programming Based Teleoperation Scheme and Its Applications for Robotic Haircutting," manuscript submitted for publication, 2026. [PDF](publications/2026/QP_haircutting.pdf).

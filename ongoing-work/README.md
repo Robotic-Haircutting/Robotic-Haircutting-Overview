@@ -1,11 +1,12 @@
 # Ongoing Work
 
-This directory organizes the public implementation work being carried out by the team led by [Professor Shuai Li](https://www.oulu.fi/en/researchers/shuai-li) at the University of Oulu, including a remote teleoperated haircutting robot system and a simulation platform for robotic haircutting.
+This directory organizes the public implementation work being carried out by the team led by [Professor Shuai Li](https://www.oulu.fi/en/researchers/shuai-li) at the University of Oulu, including a remote teleoperated haircutting robot system, a simulation platform for robotic haircutting, and a quadratic programming based teleoperation scheme.
 
 ## Projects
 
 - [Remote Teleoperated Haircutting Robot System](remote-teleoperated-haircutting-robot-system.md)
 - [RoboHairSim: Simulation Platform for Robotic Haircutting](robohairsim-simulation-platform.md)
+- [QP_Haircut_Teleop: Quadratic Programming Based Teleoperation for Robotic Haircutting](qp-haircut-teleop.md)
 
 ## Demonstrations
 

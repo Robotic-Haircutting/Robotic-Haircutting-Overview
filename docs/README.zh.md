@@ -91,6 +91,10 @@
 
 - [RoboHairSim](https://github.com/Robotic-Haircutting/RoboHairSim)：一个基于 MATLAB 的仿真平台，集成了头部与头发建模、定向推子剪切、刀路规划和机器人执行，支持自动理发、键盘遥操作和会话回放 [\[11\]](#team-publication-11)。详见[项目介绍](../ongoing-work/robohairsim-simulation-platform.md)。
 
+本团队还在开发一种基于二次规划的机器人理发遥操作方案：
+
+- [QP_Haircut_Teleop](https://github.com/Robotic-Haircutting/QP_Haircut_Teleop)：一种基于二次规划的遥操作方案，从臂在自身关节限位内跟踪操作者给出的期望位姿，无需主从臂关节一一对应，并应用于异构主从遥操作和基于智能手机的遥操作 [\[12\]](#team-publication-12)。详见[项目介绍](../ongoing-work/qp-haircut-teleop.md)。
+
 ### 遥操作演示
 
 | 常规操作 [\[9\]](#team-publication-9) | Rebase 操作 [\[9\]](#team-publication-9) |
@@ -110,6 +114,16 @@
 | 理发前 [\[11\]](#team-publication-11) | 理发后（5 mm 限位梳） [\[11\]](#team-publication-11) |
 | --- | --- |
 | ![理发前的仿真头发](../ongoing-work/media/simulation/before_haircutting.gif) | ![5 mm 理发后的仿真头发](../ongoing-work/media/simulation/after_haircutting_5mm.gif) |
+
+### 二次规划遥操作演示
+
+| 异构主从遥操作（SO-101 到 Piper） [\[12\]](#team-publication-12) |
+| --- |
+| ![SO-101 主臂遥操作 Piper 从臂](../ongoing-work/media/qp-teleoperation/app1_leader_follower_teleop.gif) |
+
+| 基于智能手机的遥操作 [\[12\]](#team-publication-12) |
+| --- |
+| ![智能手机遥操作时的手机画面](../ongoing-work/media/qp-teleoperation/app2_smartphone_teleop.gif) |
 
 本团队的其他持续性工作已整理在 [../ongoing-work/README.md](../ongoing-work/README.md) 中。
 
@@ -174,4 +188,4 @@
 - <a id="team-publication-9"></a>[9] Z. Huang, A. Vilkki, J. Huang, B. Liao, C. Luo, L. Angrisani, and S. Li, "TeleHairing: A Teleoperation Baseline for Robotic Haircutting," *arXiv preprint*, arXiv:2610.07096, 2026. DOI: [10.48550/arXiv.2610.07096](https://doi.org/10.48550/arXiv.2610.07096). [PDF](../publications/2026/TeleHairing.pdf).
 - <a id="team-publication-10"></a>[10] "Teleoperated Haircutting with Delay Compensation and Passivity-Based Control for Unilateral Internet Teleoperation under Real Communication Uncertainties," manuscript submitted for publication, 2026. [PDF](../publications/2026/Teleoperated%20Haircutting%20with%20Delay%20Compensation%20and%20Passivity-Based%20Control%20for%20Unilateral%20Intern.pdf).
 - <a id="team-publication-11"></a>[11] "RoboHairSim: A Human-Machine Platform for Planning and Evaluating Robotic Haircutting," manuscript submitted for publication, 2026. [PDF](../publications/2026/RoboHairSim.pdf).
-- <a id="team-publication-12"></a>[12] "A Quadratic Programming-Based Teleoperation Scheme for Haircutting Robots," manuscript submitted for publication, 2026. [PDF](../publications/2026/QP_haircutting.pdf).
+- <a id="team-publication-12"></a>[12] "A Quadratic Programming Based Teleoperation Scheme and Its Applications for Robotic Haircutting," manuscript submitted for publication, 2026. [PDF](../publications/2026/QP_haircutting.pdf).
