@@ -87,6 +87,10 @@ Zusätzlich zu den hier gesammelten Veröffentlichungen entwickelt das Team hint
 
 - [Client_RHCR](https://github.com/Dai0731csc/Client_RHCR): ein clientseitiges System für ferngesteuertes teleoperiertes robotisches Haareschneiden. Es unterstützt browserbasierte Wahrnehmung, Kalibrierung, Kommunikation und Raw-Pose-Streaming. Beiträge von Forschenden und Entwicklern, die sich für dieses Thema interessieren, sind willkommen.
 
+Darüber hinaus entwickelt das Team eine Simulationsplattform für die Planung und Bewertung des robotischen Haareschneidens:
+
+- [RoboHairSim](https://github.com/Robotic-Haircutting/RoboHairSim): eine MATLAB-basierte Simulationsplattform, die Kopf- und Haarmodellierung, richtungsabhängiges Schneiden mit der Haarschneidemaschine, Werkzeugbahnplanung und Roboterausführung integriert. Sie unterstützt automatisiertes Haareschneiden, Teleoperation per Tastatur und die Wiedergabe von Sitzungen [\[11\]](#team-publication-11). Weitere Details finden sich in der [Projektübersicht](../ongoing-work/robohairsim-simulation-platform.md).
+
 ### Teleoperationsdemonstrationen
 
 | Normalbetrieb [\[9\]](#team-publication-9) | Rebase-Betrieb [\[9\]](#team-publication-9) |
@@ -96,6 +100,16 @@ Zusätzlich zu den hier gesammelten Veröffentlichungen entwickelt das Team hint
 | Sicherheits-Governor [\[8\]](#team-publication-8) | Not-Aus [\[9\]](#team-publication-9) |
 | --- | --- |
 | ![Demo des Sicherheits-Governors bei der Teleoperation](../ongoing-work/media/teleoperation/Safety_governor.gif) | ![Demo des Not-Aus bei der Teleoperation](../ongoing-work/media/teleoperation/Emergency_stop.gif) |
+
+### Simulationsdemonstrationen
+
+| Autonomes und teleoperiertes Haareschneiden in RoboHairSim [\[11\]](#team-publication-11) |
+| --- |
+| ![Autonome und Teleoperations-Demo in RoboHairSim](../ongoing-work/media/simulation/demo.gif) |
+
+| Vor dem Haarschnitt [\[11\]](#team-publication-11) | Nach dem Haarschnitt (5-mm-Aufsatz) [\[11\]](#team-publication-11) |
+| --- | --- |
+| ![Simuliertes Haar vor dem Haarschnitt](../ongoing-work/media/simulation/before_haircutting.gif) | ![Simuliertes Haar nach einem 5-mm-Haarschnitt](../ongoing-work/media/simulation/after_haircutting_5mm.gif) |
 
 Weitere laufende Arbeiten dieses Teams sind in [../ongoing-work/README.md](../ongoing-work/README.md) organisiert.
 
@@ -159,3 +173,5 @@ Dieses Projekt wird an der Universität Oulu von [Professor Shuai Li](https://ww
 - <a id="team-publication-8"></a>[8] Z. Huang, A. T. Khan, A. M. Mohammed, F. Lo Regio, J.-J. Torvinen, L. Angrisani, and S. Li, "A Safety Boundary Governor for Teleoperated Robotic Haircutting," conference submission, 2026. [PDF](../publications/2026/A%20Safety%20Boundary%20Governor%20for%20Teleoperated%20Robotic%20Haircutting.pdf).
 - <a id="team-publication-9"></a>[9] Z. Huang, A. Vilkki, J. Huang, B. Liao, C. Luo, L. Angrisani, and S. Li, "TeleHairing: A Teleoperation Baseline for Robotic Haircutting," *arXiv preprint*, arXiv:2610.07096, 2026. DOI: [10.48550/arXiv.2610.07096](https://doi.org/10.48550/arXiv.2610.07096). [PDF](../publications/2026/TeleHairing.pdf).
 - <a id="team-publication-10"></a>[10] "Teleoperated Haircutting with Delay Compensation and Passivity-Based Control for Unilateral Internet Teleoperation under Real Communication Uncertainties," manuscript submitted for publication, 2026. [PDF](../publications/2026/Teleoperated%20Haircutting%20with%20Delay%20Compensation%20and%20Passivity-Based%20Control%20for%20Unilateral%20Intern.pdf).
+- <a id="team-publication-11"></a>[11] "RoboHairSim: A Human-Machine Platform for Planning and Evaluating Robotic Haircutting," manuscript submitted for publication, 2026. [PDF](../publications/2026/RoboHairSim.pdf).
+- <a id="team-publication-12"></a>[12] "A Quadratic Programming-Based Teleoperation Scheme for Haircutting Robots," manuscript submitted for publication, 2026. [PDF](../publications/2026/QP_haircutting.pdf).

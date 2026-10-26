@@ -1,6 +1,6 @@
 # Remote Teleoperated Haircutting Robot System
 
-This page summarizes the current public implementation effort on the remote teleoperated haircutting robot system being developed by the team led by [Professor Shuai Li](https://www.oulu.fi/en/researchers/shuai-li) at the University of Oulu.
+This page summarizes the current public implementation effort on the remote teleoperated haircutting robot system.
 
 - [Client_RHCR](https://github.com/Dai0731csc/Client_RHCR): a client system for remote teleoperated robotic haircutting that supports browser-based perception, calibration, communication, and raw pose streaming.
 
@@ -21,4 +21,4 @@ These demonstrations illustrate the current teleoperation workflow and safety-re
 | --- | --- |
 | ![Safety governor teleoperation demo](media/teleoperation/Safety_governor.gif) | ![Emergency stop teleoperation demo](media/teleoperation/Emergency_stop.gif) |
 
-This page may later be extended with additional repositories, modules, demonstrations, or deployment-oriented system components from the same team.
+This page may later be extended with additional repositories, modules, demonstrations, or deployment-oriented system components.
